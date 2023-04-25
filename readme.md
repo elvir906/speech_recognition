@@ -9,7 +9,8 @@
 ## Запуск
 - Склонируйте репозиторий.
 ```
-git clone https://github.com/elvir906/```
+git clone https://github.com/elvir906/speech_recognition.git
+```
 
 
 - настройте виртуальное окружение
